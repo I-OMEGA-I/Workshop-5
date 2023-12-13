@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.footer {
+  width: 100%;
+  height: 161px;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 130px 0 130px;
+  box-sizing: border-box;
+}
+
+.social {
+  
+}
+
+.copyright {
+  color: #fff;
+}
